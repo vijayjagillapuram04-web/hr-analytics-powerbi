@@ -102,12 +102,12 @@ Job satisfaction, environment satisfaction, and manager ratings trend downward f
 
 ## What Should Happen Next
 
-1. **Fix the roles first.** Put retention budget behind Sales Representatives and Recruiters before spreading it company wide.
+1. **Focus on Sales Representatives and Recruiters first.** These roles lose the most people, so retention money should go here before anywhere else.
 2. **Investigate overtime load** in the highest attrition roles. This is likely a bigger lever than a pay raise.
 3. **Rebuild the first 90 days.** Structured check ins and clear expectations early on, since that's when people are walking out the door.
 4. **Rethink travel demands** for roles that require frequent travel. Caps, comp adjustments, or hybrid options where possible.
 5. **Dig into why satisfaction is dropping** year over year before it drives attrition even higher.
-6. **Check pay equity** across demographic groups using the demographics data as a starting point.
+6. **Check if pay is fair across different groups.** across demographic groups using the demographics data as a starting point.
 7. **Refresh this dashboard monthly** so HR can see if any of this actually moves the needle.
 
 ---
