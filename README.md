@@ -27,7 +27,6 @@ Curious how I got there? Keep scrolling.
 4. [What the Data Showed](#what-the-data-showed)
 5. [What Should Happen Next](#what-should-happen-next)
 6. [Tech Stack](#tech-stack)
-7. [Live Dashboard](#live-dashboard)
 
 ---
 
@@ -118,6 +117,3 @@ Power BI Desktop, Power Query, DAX, Snowflake schema data modeling
 
 ---
 
-## Live Dashboard
-
-[Click here to explore the interactive Power BI dashboard](PASTE-YOUR-DASHBOARD-LINK-HERE)
